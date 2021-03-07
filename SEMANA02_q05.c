@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-  int a,b;
+  int a,b,i;
+  for(i=0;i<5;i++){
     scanf("%i %i",&a,&b);
       if(a<b){
       if(a == b-1){
@@ -32,4 +33,5 @@ int main(void) {
         }
       }
        }
+  }
 }
