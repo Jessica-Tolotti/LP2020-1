@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main(void) {
   int a,b,i;
@@ -35,3 +35,4 @@ int main(void) {
        }
   }
 }
+*/
