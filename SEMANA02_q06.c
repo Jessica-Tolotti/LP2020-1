@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 main(){
 int n;
   scanf("%i",&n);
@@ -16,4 +16,4 @@ int n;
 	default: printf("Digite um numero de 0 a 9");
 	break;
   }
-}
+}*/
