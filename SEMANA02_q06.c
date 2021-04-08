@@ -16,5 +16,4 @@ int n;
 	default: printf("Digite um numero de 0 a 9");
 	break;
   }
-
 }
