@@ -25,6 +25,6 @@ printf("%i nota(s) de R$ 5,00\n",Cinco);
 printf("%i nota(s) de R$ 2,00\n",Dois);
 printf("%i nota(s) de R$ 1,00\n",Troco);
 
-return 0;
+
 
 }*/
