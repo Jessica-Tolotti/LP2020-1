@@ -16,7 +16,6 @@ scanf("%i",&Valor);
   Troco = Troco - (Cinco * 5);
   Dois = Troco / 2;
   Troco = Troco - (Dois * 2);
-printf("%i\n",Valor);
 printf("%i nota(s) de R$ 100,00\n",Cem);
 printf("%i nota(s) de R$ 50,00\n",Cinquenta);
 printf("%i nota(s) de R$ 20,00\n",Vinte);

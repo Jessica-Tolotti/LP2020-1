@@ -1,4 +1,4 @@
-
+/*
 #include <stdio.h>
  int main() {
   float X,Y;
@@ -17,3 +17,4 @@
 	}
   }
 }
+*/
