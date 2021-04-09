@@ -1,4 +1,4 @@
-#include <stdio.h>
+/* #include <stdio.h>
 int main() {
 
 int Valor, Troco, Cem, Cinquenta, Vinte, Dez, Cinco, Dois, Um;
@@ -40,3 +40,4 @@ int Valor, Troco, Cem, Cinquenta, Vinte, Dez, Cinco, Dois, Um;
 
 					  }
 				  }
+          */
